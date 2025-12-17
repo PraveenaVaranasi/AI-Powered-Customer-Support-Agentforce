@@ -1,0 +1,4 @@
+- AI-powered customer interaction
+- Automatic case creation and assignment
+- Workflow automation using Salesforce Flows
+- Improved customer support efficiency
